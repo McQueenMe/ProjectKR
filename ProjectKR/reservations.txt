@@ -1,0 +1,9 @@
+Reservations for Passenger: ’¢?  (ID: 1)
+Ticket ID: 1
+Ship Name: Victoria
+Departure Port: London
+Destination Port: Boston
+Date: 10/11/25
+Cabin Class: 2
+Price: $300
+
